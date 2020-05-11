@@ -1,0 +1,9 @@
+{
+  "java_import_path":
+  [
+      # JVM
+      "/Library/Java/JavaVirtualMachines/jdk1.8.0_151.jdk/Contents/Home/src.zip",
+      # Source FatJar
+      "/Users/hanzhenyi/.m2/repository/com/hzyi/jplab/jplab/1.0-SNAPSHOT/jplab-1.0-SNAPSHOT-jar-with-dependencies.jar"
+  ]
+}
